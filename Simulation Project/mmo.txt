@@ -1,0 +1,99 @@
+Single-Server Queing System
+
+Mean InterArrival Time: 1 minutes
+
+Mean Serrvice Time: 0.500 minutes
+
+Number of Customers: 1000
+
+
+Average Delay in Queue :       0.027 minutes
+
+
+Average Num in Queue :      0.005
+
+Server Utilization :           0.501
+
+Time Simulation Ended :     5199.439
+========================================================================
+Average Delay in Queue :       0.036 minutes
+
+
+Average Num in Queue :      0.007
+
+Server Utilization :           0.502
+
+Time Simulation Ended :     5183.188
+========================================================================
+Average Delay in Queue :       0.029 minutes
+
+
+Average Num in Queue :      0.006
+
+Server Utilization :           0.501
+
+Time Simulation Ended :     5195.316
+========================================================================
+Average Delay in Queue :       0.030 minutes
+
+
+Average Num in Queue :      0.006
+
+Server Utilization :           0.497
+
+Time Simulation Ended :     5204.537
+========================================================================
+Average Delay in Queue :       0.034 minutes
+
+
+Average Num in Queue :      0.006
+
+Server Utilization :           0.499
+
+Time Simulation Ended :     5264.506
+========================================================================
+Average Delay in Queue :       0.024 minutes
+
+
+Average Num in Queue :      0.005
+
+Server Utilization :           0.495
+
+Time Simulation Ended :     5229.048
+========================================================================
+Average Delay in Queue :       0.029 minutes
+
+
+Average Num in Queue :      0.005
+
+Server Utilization :           0.497
+
+Time Simulation Ended :     5235.328
+========================================================================
+Average Delay in Queue :       0.048 minutes
+
+
+Average Num in Queue :      0.008
+
+Server Utilization :           0.504
+
+Time Simulation Ended :     5194.865
+========================================================================
+Average Delay in Queue :       0.021 minutes
+
+
+Average Num in Queue :      0.004
+
+Server Utilization :           0.499
+
+Time Simulation Ended :     5253.028
+========================================================================
+Average Delay in Queue :       0.025 minutes
+
+
+Average Num in Queue :      0.005
+
+Server Utilization :           0.501
+
+Time Simulation Ended :     5213.099
+========================================================================

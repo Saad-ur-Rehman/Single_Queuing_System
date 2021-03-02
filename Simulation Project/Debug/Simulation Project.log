@@ -1,0 +1,8 @@
+﻿  SourceCode.cpp
+C:\Users\WeHome\Desktop\Saad\Saad Semester 6\Simulation and modeling\Assignment file\Simulation Project\Simulation Project\SourceCode.cpp(76,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\WeHome\Desktop\Saad\Saad Semester 6\Simulation and modeling\Assignment file\Simulation Project\Simulation Project\SourceCode.cpp(82,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\WeHome\Desktop\Saad\Saad Semester 6\Simulation and modeling\Assignment file\Simulation Project\Simulation Project\SourceCode.cpp(90,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\WeHome\Desktop\Saad\Saad Semester 6\Simulation and modeling\Assignment file\Simulation Project\Simulation Project\SourceCode.cpp(148,37): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\WeHome\Desktop\Saad\Saad Semester 6\Simulation and modeling\Assignment file\Simulation Project\Simulation Project\SourceCode.cpp(193,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\WeHome\Desktop\Saad\Saad Semester 6\Simulation and modeling\Assignment file\Simulation Project\Simulation Project\SourceCode.cpp(195,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Simulation Project.vcxproj -> C:\Users\WeHome\Desktop\Saad\Saad Semester 6\Simulation and modeling\Assignment file\Simulation Project\Simulation Project\Debug\Simulation Project.exe
